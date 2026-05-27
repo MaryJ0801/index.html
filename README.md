@@ -26,12 +26,20 @@ Este portafolio documenta el desarrollo de competencias en inteligencia de negoc
 
 ## 📊 Data Products
 
-1. Alineamiento dinámico 
-2. Cultura y liderazgo digital 
+1. Alineamiento dinámico
+2. Cultura y liderazgo digital
 3. Innovación centrada en el cliente
-4. Agilidad operativa
-5. Acceso y uso de datos 
-6. Ecosistemas colaborativos 
+4. RAPS myRAzept
+5. Semana 05: Asistente académico COMEX UTN
+6. Ecosistemas colaborativos
+
+---
+
+## 🆕 Semana 05
+
+La actualización más reciente documenta el proyecto [Tutor COMEX UTN](https://tutor-comex-utn.lovable.app), una app web creada en Lovable para orientar a estudiantes de Comercio Exterior de la UTN, Sede Regional San Carlos.
+
+**Entregable:** [Semana 05 · Asistente académico COMEX UTN](Semana05/)
 ---
 
 ## ⚙️ Herramientas utilizadas
